@@ -1,1 +1,1 @@
-# sensechain-a-blockchain-based-crowdsensing-framework-formultiple-requesters-and-multiple-workers
+# SenseChain: A Blockchain-based Crowdsensing Framework for Multiple Requesters and Multiple Workers
