@@ -37,6 +37,3 @@ Maha Kadadha, Hadi Otrok, Rabeb Mizouni, Shakti Singh, Anis Ouali, SenseChain: A
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167739X19312579">Journal</a> |
 <a href="https://www.researchgate.net/publication/338029700_SenseChain_A_blockchain-based_crowdsensing_framework_for_multiple_requesters_and_multiple_workers">ResearchGate</a> | <a href="https://www.youtube.com/watch?v=dtVfuHliFgU&t=12s">Youtube</a> 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dtVfuHliFgU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
