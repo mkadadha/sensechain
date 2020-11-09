@@ -32,6 +32,7 @@ In this paper, we propose a decentralized crowdsensing framework for multiple re
 
 # Citation
 If you are using any part of SenseChain, please cite our paper.
+
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167739X19312579">Journal</a> |
 <a href="https://www.researchgate.net/publication/338029700_SenseChain_A_blockchain-based_crowdsensing_framework_for_multiple_requesters_and_multiple_workers">ResearchGate</a> | <a href="https://www.youtube.com/watch?v=dtVfuHliFgU&t=12s">Youtube</a> 
 
