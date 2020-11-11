@@ -3,7 +3,7 @@
 SenseChain, is a decentralized crowdsensing framework developed for blockchain to mitigate the challenges of centralized deployment while increasing users’ engagement, with reasonable cost. 
 
 The current version is developed on the Ethereum network using Solidity Language. 
-It has Smart Contracts: 
+It has three Smart Contracts: 
 <ol>
   <li> <i>User Manager Contract</i>: is a directory for registered, requesters and workers, registered and their information. The information is the <i>Ethereum Address</i>, <i>user type</i>, <i>Reputation</i> and <i>statistics</i>.
 
